@@ -2,5 +2,5 @@
 Das ist ein **Test** um *GitHub* zu testen
 
 ## To-Dos:
-- [x] Readme.md befüllen
-- [ ] anderes
+- [] Readme.md befüllen
+- [x] anderes
